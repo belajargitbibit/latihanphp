@@ -1,6 +1,10 @@
 <?php
-$nama = "Bibit";
-
-echo "Hallo, selamat datang $nama </br>";
-echo 'Hallo, selamat datang $nama';
+operator aritmatika
+$x = 10;
+$y = 20;
+echo $x + $y ;
+echo $x - $y ;
+echo $x * $y ;
+echo $x / $y ;
+echo $x % $y ;
 ?>
