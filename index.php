@@ -1,10 +1,6 @@
 <?php
-operator aritmatika
-$x = 10;
-$y = 20;
-echo $x + $y ;
-echo $x - $y ;
-echo $x * $y ;
-echo $x / $y ;
-echo $x % $y ;
-?>
+$nama_depan = "Bibit";
+$nama_belakang = "Kukuh";
+
+echo $nama_depan . "" . $nama_belakang
+?> 
